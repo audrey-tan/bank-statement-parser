@@ -1,4 +1,6 @@
-![alt text](https://github.com/audrey-tan/bank-statement-parser/blob/main/screenshots/1.jpg?raw=true)
+![alt text](https://github.com/audrey-tan/bank-statement-parser/blob/main/screenshots/1.png?raw=true)
+![alt text](https://github.com/audrey-tan/bank-statement-parser/blob/main/screenshots/2.png?raw=true)
+![alt text](https://github.com/audrey-tan/bank-statement-parser/blob/main/screenshots/3.png?raw=true)
 
 
 
