@@ -1,3 +1,10 @@
+![alt text](https://github.com/audrey-tan/bank-statement-parser/blob/main/screenshots/1.jpg?raw=true)
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
